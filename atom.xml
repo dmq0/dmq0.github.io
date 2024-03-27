@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>杜明清的个人博客</title>
+    <subtitle></subtitle>
+    <icon>http://example.com/images/favicon.ico</icon>
+    <link href="http://example.com" />
+    <author>
+      <name>dmq</name>
+    </author>
+    <updated>2023-12-02T04:24:04.000Z</updated>
+    <entry>
+        <id>http://example.com/2023/12/02/%E7%AE%97%E6%B3%95/</id>
+        <title>算法与数据结构</title>
+        <link rel="alternate" href="http://example.com/2023/12/02/%E7%AE%97%E6%B3%95/"/>
+        <content type="html">&lt;h2 id=&#34;算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#算法&#34;&gt;#&lt;/a&gt; 算法&lt;/h2&gt;
+&lt;p&gt;在有限时间中解决特定问题的一组指令或操作步骤&lt;/p&gt;
+&lt;h2 id=&#34;数据结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构&#34;&gt;#&lt;/a&gt; 数据结构&lt;/h2&gt;
+&lt;p&gt;计算机中组织的和存储数据的方式 ，具有设计目标：空间占用少，以节省计算机内存，数据操作尽可能快速，提供简洁的数据表示和逻辑信息。数据结构设计是一个充满权衡的过程。&lt;/p&gt;
+&lt;h2 id=&#34;数据结构与算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构与算法&#34;&gt;#&lt;/a&gt; 数据结构与算法&lt;/h2&gt;
+&lt;p&gt;数据结构是算法的基石，数据结构为算法提供结构化存储的数据，以及操作数据的方法。&lt;/p&gt;
+&lt;h2 id=&#34;插入排序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#插入排序&#34;&gt;#&lt;/a&gt; 插入排序&lt;/h2&gt;
+&lt;h2 id=&#34;贪心算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#贪心算法&#34;&gt;#&lt;/a&gt; 贪心算法&lt;/h2&gt;
+&lt;p&gt;局部最优解决定全局最优解，贪心（贪婪）算法是一种&lt;strong&gt;在每一步选择中都采取当前状态下最优或最好的选择&lt;/strong&gt;，从而希望导致结果最好或最优&lt;/p&gt;
+&lt;h2 id=&#34;二分查找&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二分查找&#34;&gt;#&lt;/a&gt; 二分查找&lt;/h2&gt;
+&lt;p&gt;也称折半搜索法，通过条件进行区分。&lt;/p&gt;
+&lt;h2 id=&#34;复杂度分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#复杂度分析&#34;&gt;#&lt;/a&gt; 复杂度分析&lt;/h2&gt;
+&lt;p&gt;算法的实际测试需要但难以排除测试环境的干扰因素，硬件配置会影响算法的性能，另一方面，展开完成测试是非常消耗资源。随着输入数据的大小增加，意味着复杂度反映了算法运行效率与输入数据量之间的关系。&lt;/p&gt;
+&lt;p&gt;时间效率（算法运行速度的快慢）&lt;/p&gt;
+&lt;p&gt;空间效率（算法占用内存空间的大小）。&lt;/p&gt;
+&lt;h2 id=&#34;迭代&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#迭代&#34;&gt;#&lt;/a&gt; 迭代&lt;/h2&gt;
+&lt;p&gt;迭代是一种重复执行某个任务的控制结构，在迭代中，程序会在满足一定条件下重复执行某段代码，直到这个条件不再满足。&lt;/p&gt;
+</content>
+        <category term="算法" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/" />
+        <category term="算法" scheme="http://example.com/tags/%E7%AE%97%E6%B3%95/" />
+        <category term="数据结构" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" />
+        <updated>2023-12-02T04:24:04.000Z</updated>
+    </entry>
+</feed>
